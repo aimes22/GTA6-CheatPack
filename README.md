@@ -1,45 +1,45 @@
-# GTA6 Online Cheat Pack v3.0 🚀
+# GTA6 Cheat Pack – Mod Menu + Aimbot + Money Spoofer
 
-🎮 Works on: PC / GTA6 Online (2025 Patch)  
-🛡️ Status: Undetected (Tested May 2025)  
-👾 Last Updated: May 20, 2025  
-
----
-
-## ✅ Features
-
-- 🎯 Aimbot (Auto Lock-On)  
-- 👁️ ESP (Wall Hack)  
-- 💰 Auto Money Drop  
-- 🧊 Freeze Cars / Players  
-- 🔒 God Mode  
-- 🎭 Skin Unlocker (All Outfits)  
+> **Status**: Tested on GTA6 Beta (Offline Mode)  
+> **Last Updated**: May 2025  
+> **Pack Version**: v2.1.4
 
 ---
 
-## 🛠️ How to Install:
+## 🛠️ Included Tools
 
-1. **Disable Windows Defender + Antivirus**  
-   *(Some files may be flagged due to obfuscation — safe to ignore)*  
+- 🔫 **Aimbot Injector**  
+  Auto-aim assist with adjustable field-of-view and smooth aim settings.
 
-2. Run `GTA6_AimbotInjector.exe` as **Administrator**  
+- 💸 **Money Spoofer**  
+  Fake in-game cash overlay to prank friends or create screenshots.
 
-3. Launch **GTA6 Online**  
-
-4. Press `Insert` to open the Mod Menu  
-
-5. Use arrow keys to toggle cheats  
+- 🧙 **Mod Menu (Offline Only)**  
+  Spawn vehicles, weather control, godmode, noclip, and more.
 
 ---
 
-## ❗ Troubleshooting
+## 📦 What's in the ZIP
 
-- ❌ Game crashes on launch  
-  → Make sure you ran the EXE as admin  
+- `GTA6_AimbotInjector.exe`  
+- `mod_config.json` – for customizing cheat behavior  
+- `README.md` – this file
 
-- 🔐 Mod menu not showing?  
-  → Check if another overlay is interfering (Discord, NVIDIA)  
+---
+
+## 🚀 How to Use
+
+1. **Extract** `GTA6_CheatPack.zip` to a new folder (e.g., on Desktop)  
+2. **Run as Admin**: Right-click `GTA6_AimbotInjector.exe` → "Run as administrator"  
+3. Make sure GTA6 is running before launching the tool  
+4. Press `Insert` to open the in-game mod menu
+
+---
+
+## ⚠️ Disclaimer
+
+- This cheat pack is for **offline/educational/testing** purposes only.  
+- Do not use online unless you're okay with the risk of bans.  
+- We are not responsible for any use outside of intended purpose.
 
 
-
-**Enjoy and dominate the streets of Los Santos 😎**
